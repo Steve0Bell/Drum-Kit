@@ -1,2 +1,2 @@
 # Drum-Kit
-created with HTML, CSS and Javascript 
+Created with HTML, CSS and Javascript 
